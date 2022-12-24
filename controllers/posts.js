@@ -18,5 +18,4 @@ export const createPosts = async (req, res) => {
     }catch(e){
         res.status(409).json({message: e.message})
     }
-    res.send('Post created')
 }
