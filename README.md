@@ -8,3 +8,4 @@ A Full CRUD application, we perform on posts of users.
 - cors : Enables cross origin requests
 - express : Framework for routing of our application
 - mongoose : To create models
+
