@@ -11,11 +11,11 @@ dotenv.config()
 const app = express()
 const port = process.env.PORT || 3000
 
-app.use('/posts', postRoute)
-
 app.use(bodyParser.json({limit: "30mb", extended: true}))
 app.use(bodyParser.urlencoded({limit: "30mb", extended: true}))
 app.use(cors())
+
+app.use('/posts', postRoute)
 
 mongoose.connect(process.env.DB_CONNECTION_URL)
     .then(() => app.listen(port,(req,res)=>{console.log(`Server running on port ${port}`)}))
