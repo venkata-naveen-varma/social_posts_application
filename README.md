@@ -1,5 +1,5 @@
-# social_posts_app
-A social media application that allows users to post interesting events that happened in their lives.
+# social_posts_app Server
+A social media application Server that allows users to post interesting events that happened in their lives.
 A Full CRUD application, we perform on posts of users.
 
 ## npm Module
