@@ -16,7 +16,10 @@ app.use(bodyParser.urlencoded({limit: "30mb", extended: true}))
 app.use(cors())
 
 app.use('/posts', postRoute)
-
-mongoose.connect(process.env.DB_CONNECTION_URL)
+try{
+    mongoose.connect(process.env.DB_CONNECTION_URL)
     .then(() => app.listen(port,(req,res)=>{console.log(`Server running on port ${port}`)}))
     .catch((error) => console.log("Found the error --> ", error))
+}catch(e){
+    console.log(e)
+}
