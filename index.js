@@ -9,7 +9,7 @@ import postRoute from './routes/posts.js'
 dotenv.config()
 
 const app = express()
-const port = process.env.PORT || 4000
+const port = process.env.PORT || 3000
 
 app.use('/posts', postRoute)
 
