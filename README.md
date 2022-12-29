@@ -3,9 +3,7 @@ Checkout application at --> [social-posts-app](https://playful-kheer-3ff695.netl
 <br> This repo is a social media application Server that allows users to post interesting events that happened in their lives.
 
 --> Medium post available at [Click here](https://medium.com/@naveen-varma/social-media-posts-application-18af374d14de)
-
 > A Full CRUD application, we perform on posts of users.
-
 ### Links
 - [Hosted Server Link](https://salmon-prawn-boot.cyclic.app/posts)
 - [Hosted Frontend Website Link](https://playful-kheer-3ff695.netlify.app/)
