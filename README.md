@@ -20,3 +20,5 @@ Checkout application at --> [social-posts-app](https://playful-kheer-3ff695.netl
 - cors : Enables cross origin requests
 - express : Framework for routing of our application
 - mongoose : To create models
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=venkata-naveen-varma&show_icons=true)
