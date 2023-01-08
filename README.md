@@ -1,4 +1,4 @@
-# social_posts_app Server
+# Server of social_posts_app
 Checkout application at --> [social-posts-app](https://playful-kheer-3ff695.netlify.app/)
 <br> This repo is a social media application Server that allows users to post interesting events that happened in their lives.
 
