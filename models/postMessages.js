@@ -1,5 +1,7 @@
 import mongoose from "mongoose";
 
+mongoose.set('strictQuery', true);
+
 const postSchema = mongoose.Schema({
     title: String,
     message: String,
