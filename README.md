@@ -7,12 +7,12 @@ Checkout application at --> [social-posts-app](https://playful-kheer-3ff695.netl
 > A Full CRUD application, we perform on posts of users.
 
 ### Links
-- [Hosted Server Link](https://salmon-prawn-boot.cyclic.app/posts)
+- [Hosted Server Link]([https://salmon-prawn-boot.cyclic.app/posts](https://dashboard.render.com))
 - [Hosted Frontend Website Link](https://playful-kheer-3ff695.netlify.app/)
 - [Frontend Git Repo](https://github.com/venkata-naveen-varma/social_posts_application_frontend)
 
 ### Platforms used to host the website
-- Server --> https://app.cyclic.sh/#/
+- Server --> https://render.com
 - Frontend --> https://www.netlify.com
 
 ## npm Module
